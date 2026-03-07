@@ -8,4 +8,6 @@ A Solidity counter smart contract that acts as an on-chain tracker, storing an i
 The project includes native support for TypeScript, Hardhat scripts, tasks, and support for Solidity compilation and tests.
 
 
-**Description**
+**Description** </br>
+A counter smart contract is a fundamental blockchain program that stores an integer (the
+ 
