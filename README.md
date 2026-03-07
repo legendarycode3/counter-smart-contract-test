@@ -12,3 +12,4 @@ The project includes native support for TypeScript, Hardhat scripts, tasks, and 
 A counter smart contract is a fundamental blockchain program that stores an integer (the
 count) and provides functions to increment, decrement, or retrieve its value. Commonly 
 used for learning, it typically includes getCounter, incrementCounter, and sometimes
+reset functions, it  demonstrate on-chain state changes.  </br>
