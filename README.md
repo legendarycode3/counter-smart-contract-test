@@ -16,3 +16,4 @@ reset functions, it  demonstrate on-chain state changes.  </br>
 
 
 **Key Considerations** </br>
+1. Storage: The count is stored on-chain, requiring gas to update. </br>
